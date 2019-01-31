@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548946912 source:c:\users\dell\desktop\windmill\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
